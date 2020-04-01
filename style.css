@@ -1,0 +1,49 @@
+.jumbotron {
+  font-family: 'Share Tech Mono';
+}
+
+#res {
+  background: black;
+  border: solid, black;
+  height: 40px;
+  font-size: 20px;
+  color: limegreen;
+  text-align: right;
+}
+
+.btn {
+  font-family: 'Share Tech Mono';
+}
+
+#btns {
+  width: 90%;
+  text-align: center;
+  width: 22%;
+  height: 36px;
+  font-size: 18px;
+}
+
+.upper {
+  display: inline;
+  position: top;
+}
+
+.lblue {
+  background: lightblue;
+  color: brown;
+  display: inline;
+  width: 100%;
+  font-size: 18px;
+}
+
+.red {
+  background: #f44336;
+  color: white;
+  display: inline;
+  width: 100%;
+  font-size: 18px;
+}
+
+.lower {
+  position: bottom;
+}
